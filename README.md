@@ -1,7 +1,6 @@
 # 📌 Project Title:  
 **Marketing Analytics Portfolio Project**
-![conversiondetails](https://github.com/user-attachments/assets/a4a0ac07-9d33-4c20-b0de-4a91bc7cbd2f)
-
+# Snapshots of PowerBI Dashboard available at the end of README.
 ---
 
 ### 👨‍💼 Author Details:
@@ -86,4 +85,23 @@
 1) Average rating: 3.69 ⭐️  
 2) Majority of feedback is positive (275 highly positive reviews)  
 3) Negative reviews peak mid-year, possibly indicating shipping or quality issues  
-4) Insights suggest seasonal adjustments and better follow-up on mixed feedback 
+4) Insights suggest seasonal adjustments and better follow-up on mixed feedback
+
+## Snapshots:
+
+### Query Structure:
+![QueryStructure](https://github.com/user-attachments/assets/7b99e66c-1c24-47f3-bfbc-49244fcbe5e3)
+
+### Overview Of Dashboard
+![overview_dashboard](https://github.com/user-attachments/assets/6d0415d9-3961-41d2-87ae-153bcee4dd32)
+
+### Conversion Details:
+![conversiondetails](https://github.com/user-attachments/assets/a4a0ac07-9d33-4c20-b0de-4a91bc7cbd2f)
+
+### Customer Review Details:
+![CustomerReviewDetails](https://github.com/user-attachments/assets/d02de349-60b3-4510-8d2e-eb4ce8a30dd2)
+
+### Social Media Details:
+![socialmediadetails](https://github.com/user-attachments/assets/dafb13a1-dfe9-4332-a722-07e2962c6b67)
+
+
