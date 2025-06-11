@@ -1,5 +1,6 @@
 # 📌 Project Title:  
 **Marketing Analytics Portfolio Project**
+![conversiondetails](https://github.com/user-attachments/assets/a4a0ac07-9d33-4c20-b0de-4a91bc7cbd2f)
 
 ---
 
